@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867258730164",
+    "project_id": "fir-basic-287a2",
+    "storage_bucket": "fir-basic-287a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867258730164:android:339991f9d0773508b579e1",
+        "android_client_info": {
+          "package_name": "mx.edu.itm.link.practicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867258730164-8ul3uvjc08aovid31d9khe9s0qs5sjab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIYaOr8rd0fT-_UgMhODMy-LtRle3UXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867258730164-8ul3uvjc08aovid31d9khe9s0qs5sjab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
